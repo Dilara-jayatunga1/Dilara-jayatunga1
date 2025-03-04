@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 ## GitHub Stats 👀
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dilara-jayatunga1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dilara-jayatunga1&theme=dark&hide_border=true)<br/>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilara-jayatunga1&show_icons=true&theme=dark)
 
 

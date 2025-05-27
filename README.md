@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Dilara
+## GitHub Stats 👀
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilara-jayatunga1&show_icons=true&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilara-jayatunga1&" alt="Dilara-jayatunga1" /></p>
 
 <!--
 **Dilara-jayatunga1/Dilara-jayatunga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +48,4 @@ Here are some ideas to get you started:
 <!--
 ## GitHub Stats 👀
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dilara-jayatunga1&theme=dark&hide_border=true)<br/> -->
-## GitHub Stats 👀
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilara-jayatunga1&show_icons=true&theme=dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilara-jayatunga1&" alt="Dilara-jayatunga1" /></p>
+
